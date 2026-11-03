@@ -2,7 +2,7 @@
 
 # Jihyeon
 
-**Backend Developer**
+## **Backend Developer**
 
 작은 문제도 그냥 지나치지 않고, 하나씩 개선해 나가는 것을 좋아합니다.  
 오늘도 어제보다 더 나은 코드를 작성하기 위해 노력 중입니다.
