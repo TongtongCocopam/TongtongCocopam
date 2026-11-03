@@ -8,22 +8,25 @@
 오늘도 어제보다 더 나은 코드를 작성하기 위해 노력 중입니다.
 
 <br>
-
-## About Me
-
-Java와 Spring Boot를 중심으로 백엔드를 개발하고 있습니다.  
-데이터 정합성, 비동기 처리, 성능 개선에 관심이 있습니다.  
-새로운 기술을 배우고 기존 코드를 개선하는 것을 좋아합니다.
-
-<br>
-
-## Tech Stack
-
-**Language & Backend**
-
-![Java](https://img.shields.io/badge/Java-F2C9B6?style=flat-square&logo=openjdk&logoColor=333333)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-C5DDBA?style=flat-square&logo=springboot&logoColor=333333)
-![JPA](https://img.shields.io/badge/JPA-E5D7B8?style=flat-square)
+<section>
+  <article>
+    ## About Me
+    <br>
+    Java와 Spring Boot를 중심으로 백엔드를 개발하고 있습니다.  
+    데이터 정합성, 비동기 처리, 성능 개선에 관심이 있습니다.  
+    새로운 기술을 배우고 기존 코드를 개선하는 것을 좋아합니다.
+    <br>
+  </article>
+  <article>
+    ## Tech Stack
+    <br>
+    **Language & Backend**
+    <br>
+    ![Java](https://img.shields.io/badge/Java-F2C9B6?style=flat-square&logo=openjdk&logoColor=333333)
+    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-C5DDBA?style=flat-square&logo=springboot&logoColor=333333)
+    ![JPA](https://img.shields.io/badge/JPA-E5D7B8?style=flat-square)
+  </article>
+</section>
 
 **Database**
 
